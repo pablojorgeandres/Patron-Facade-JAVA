@@ -16,9 +16,9 @@ public class FacadeHomeTheater {
 		this.sintonizador 		= sintonizador;
 		this.reproductorDvd 	= reproductorDvd;
 		this.reproductorCd 		= reproductorCd;
-		this.proyector 			= proyector;
-		this.pantallaProyector 	= pantallaProyector;
-		this.luces 				= luces;
+		this.proyector 			  = proyector;
+		this.pantallaProyector= pantallaProyector;
+		this.luces 				    = luces;
 	}
  
 	public void verPelicula(String pelicula) {
